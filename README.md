@@ -3,4 +3,4 @@ Practice Repository
 
 Hi Everyone,
 
-I'm Natalie Ruiz! I am currently a Senior studying Management and Business Analystics. 
+I'm Natalie Ruiz! I am currently a Senior studying Management and Business Analytics. 
